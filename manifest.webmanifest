@@ -1,0 +1,15 @@
+{
+  "name": "Foshan Sourcing",
+  "short_name": "Foshan",
+  "description": "จดสินค้า เปรียบเทียบต้นทุน PO และสต๊อก ใช้ออฟไลน์ได้",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F7F5",
+  "theme_color": "#17684D",
+  "lang": "th",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
